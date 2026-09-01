@@ -1,5 +1,12 @@
 # @executor-js/plugin-desktop-settings
 
+## 1.6.8
+
+### Patch Changes
+
+- Updated dependencies [[`b5271a6`](https://github.com/UsefulSoftwareCo/executor/commit/b5271a6f0cb6d0c42a6b9fbcdffe70fc2aad8bc6)]:
+  - @executor-js/sdk@1.6.8
+
 ## 1.6.7
 
 ### Patch Changes

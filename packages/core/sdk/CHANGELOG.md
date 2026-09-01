@@ -1,5 +1,11 @@
 # @executor-js/sdk
 
+## 1.6.8
+
+### Patch Changes
+
+- [#1907](https://github.com/UsefulSoftwareCo/executor/pull/1907) [`b5271a6`](https://github.com/UsefulSoftwareCo/executor/commit/b5271a6f0cb6d0c42a6b9fbcdffe70fc2aad8bc6) Thanks [@RhysSullivan](https://github.com/RhysSullivan)! - Add a raw HTTP Basic compatibility mode for OAuth providers that reject form-encoded client credentials.
+
 ## 1.6.7
 
 ### Patch Changes

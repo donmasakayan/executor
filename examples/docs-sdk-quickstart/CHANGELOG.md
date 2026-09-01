@@ -1,5 +1,13 @@
 # @executor-js/example-docs-sdk-quickstart
 
+## 0.0.54
+
+### Patch Changes
+
+- Updated dependencies [[`6d1f670`](https://github.com/UsefulSoftwareCo/executor/commit/6d1f670ce400ba2a516744a921996f2d1c7dcb68), [`b5271a6`](https://github.com/UsefulSoftwareCo/executor/commit/b5271a6f0cb6d0c42a6b9fbcdffe70fc2aad8bc6)]:
+  - @executor-js/plugin-openapi@1.6.8
+  - @executor-js/sdk@1.6.8
+
 ## 0.0.53
 
 ### Patch Changes
